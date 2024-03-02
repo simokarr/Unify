@@ -1,4 +1,4 @@
-# Unify: University of Ottawa Social and Location Tracking App
+# Unify: University of Ottawa Social and Location Tracking App📚
 
 ## Overview
 
