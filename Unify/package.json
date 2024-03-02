@@ -1,0 +1,13 @@
+{
+  "name": "Unify",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@react-native-firebase/auth": "^19.0.0",
+    "react-native": "0.73.5",
+    "react-native-geolocation-service": "^5.3.1"
+  }
+}
