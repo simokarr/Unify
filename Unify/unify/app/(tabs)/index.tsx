@@ -1,9 +1,10 @@
-import EditScreenInfo from '@/components/EditScreenInfo';
-import { Text, View } from '@/components/Themed';
+import { View } from '@/components/Themed';
 import React, { useEffect, useState } from 'react';
 import { StyleSheet } from 'react-native';
 import MapView, { Marker } from 'react-native-maps';
 import * as Location from 'expo-location'; // Import expo-location
+import { AppRegistry } from 'react-native';
+
 
 export default function TabOneScreen() {
   const [userLocation, setUserLocation] = useState({ latitude: 0, longitude: 0 }); // Initialize with empty object
